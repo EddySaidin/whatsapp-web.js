@@ -1,6 +1,6 @@
 {
   "name": "docker-supported-whatsapp-web.js",
-  "version": "1.35.0",
+  "version": "1.35.1",
   "description": "Library for interacting with the WhatsApp Web API ",
   "main": "./index.js",
   "typings": "./index.d.ts",
